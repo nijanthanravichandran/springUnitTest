@@ -1,5 +1,4 @@
-
-#Package Structure & Course Flow:
+# Package Structure & Course Flow:
 1. Tried a simple unit test on sum application by getting data as function input
 
     -- src/main/java/com/learn/spring/UnitTest/BusinessLayer/TestBusinessAppT1.java
@@ -116,7 +115,7 @@
     * This test ensured my weblayer is taking to business and data layer to get me the expected response.
 
 
-#course github reference : 
+# course github reference : 
 
 https://github.com/in28minutes/spring-unit-testing-with-junit-and-mockito
 
